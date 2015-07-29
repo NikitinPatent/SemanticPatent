@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="237" key="DIALOG_WIDTH"/>
+		<item value="292" key="DIALOG_Y_ORIGIN"/>
+		<item value="626" key="DIALOG_X_ORIGIN"/>
+		<item value="362" key="DIALOG_HEIGHT"/>
+		<item value="1|Tahoma|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="treeQS0" key="selection"/>
+		<list key="findhistory">
+			<item value="treeQS0"/>
+			<item value="zapol"/>
+			<item value="ProcRMDI"/>
+			<item value="resRej"/>
+			<item value="resAcc"/>
+			<item value="keyWords"/>
+			<item value="listConll1_"/>
+			<item value="outCompareRes"/>
+		</list>
+		<list key="replacehistory">
+			<item value=""/>
+			<item value="resRej1"/>
+			<item value="resAcc1"/>
+			<item value="SemParser.resRej"/>
+			<item value="SemParser.resAcc"/>
+			<item value="SemParser.tree_"/>
+			<item value="H1."/>
+			<item value="SemParser.koef1"/>
+		</list>
+	</section>
+</section>

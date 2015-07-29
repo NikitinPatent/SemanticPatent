@@ -1,0 +1,52 @@
+1. A semiconductor device comprising:
+a semiconductor chip with a semiconductor integrated circuit formed thereon; 
+a sealing member which seals the semiconductor chip with resin; 
+a tub having a chip bonding surface for bonding with the semiconductor chip and a back surface located on the side opposite to the chip bonding surface and exposed to the sealing member; 
+a plurality of inner leads electrically connected respectively to surface electrodes of the semiconductor chip; and 
+a plurality of outer leads integrally connected respectively to the inner leads and projecting to the exterior of the sealing member, 
+wherein the back surface of the tub is coated with palladium plating. 
+
+2. A semiconductor device according to claim 1, wherein surfaces of the tub and the plural inner leads and the plural outer leads are coated with palladium plating, and any of the surface electrodes of the semiconductor chip and the tub are connected with each other using a metal thin wire. 
+
+3. A semiconductor device according to claim 1, wherein the semiconductor chip comprises a base substrate, a semiconductor layer formed on the base substrate through an insulating layer, and a semiconductor element formed on the semiconductor layer. 
+
+4. A semiconductor device according to claim 1, wherein surfaces of the tub and the plural inner leads and the plural outer leads are coated with palladium plating. 
+
+5. A semiconductor device according to claim 2, wherein the metal thin wire is connected to a suspension lead for the tub. 
+
+6. A semiconductor device according to claim 1, wherein the tub is supported by suspension leads, the suspension leads being each formed with a stepped portion which is embedded in the sealing member. 
+
+7. A semiconductor device according to claim 1, wherein a heat radiation member is attached to the back surface of the tub. 
+
+8. A semiconductor device according to claim 7, wherein a heat radiation fin is attached as the heat radiation member. 
+
+9. A semiconductor device according to claim 7, wherein a thermal diffusion plate is attached as the heat radiation member. 
+
+10. A semiconductor device according to claim 1, wherein the back of the tub is exposed to a surface of the sealing member. 
+
+11. A semiconductor device comprising:
+a semiconductor chip, the semiconductor chip comprising a P type semiconductor substrate as a base substrate, a semiconductor layer formed on the semiconductor substrate through an insulating layer, and a semiconductor element formed on the semiconductor layer; 
+a sealing member which seals the semiconductor chip with resin; 
+a tub having a chip bonding surface for bonding with the semiconductor chip; 
+a metal thin wire for connecting a surface electrode on the semiconductor chip with the tub; 
+a plurality of inner leads electrically connected respectively to surface electrodes on the semiconductor chip; and 
+a plurality of outer leads integrally connected respectively to the inner leads and projecting to the exterior of the sealing member, 
+wherein a negative voltage is applied from the metal thin wire-connected surface electrode on the semiconductor chip to a back surface of the semiconductor substrate through the metal thin wire and the tub. 
+
+12. A semiconductor device according to claim 11, wherein a back surface of the tub located on the side opposite to the chip bonding surface of the tub is exposed to the sealing member. 
+
+13. A semiconductor device according to claim 11, wherein a back surface of the tub located on the side opposite to the chip bonding surface of the tap is exposed to the sealing member, and surfaces of the tap and the plural inner leads and the plural outer leads are coated with palladium plating. 
+
+14. A semiconductor device according to claim 11, wherein a back surface of the tub located on the side opposite to the chip bonding surface of the tub is exposed to a surface of the sealing member, and surfaces of the tub and the plural inner leads and the plural outer leads are coated with palladium plating. 
+
+15. A semiconductor device according to claim 14, wherein a heat radiation fin is attached to the back surface of the tub. 
+
+16. A semiconductor device according to claim 13, wherein the tub is supported by suspension leads, the suspension leads being each formed with a stepped portion which is embedded in the sealing member. 
+
+17. A semiconductor device comprising:
+a semiconductor chip with a semiconductor integrated circuit formed thereon; 
+a sealing member which seals the semiconductor chip with resin; 
+a tub having a chip bonding surface for bonding with the semiconductor chip and a back surface located on the side opposite to the chip bonding surface and exposed to a surface of the sealing member; 
+a plurality of inner leads electrically connected respectively to surface electrodes of the semiconductor chip; and 
+a plurality of outer leads integrally connected respectively to the inner leads and projecting to the exterior of the sealing member, 
+wherein surfaces of the tub and the plural inner leads and the plural outer leads are coated with palladium plating, and the outer leads are soldered to substrate terminals to mount the semiconductor device onto a mounting substrate.
