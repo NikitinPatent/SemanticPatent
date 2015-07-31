@@ -82,7 +82,7 @@ public class SemParser {
         }
         
         try{
-			Runtime.getRuntime().exec("/usr/local/hadoop/bin/hdfs dfs -copyFromLocal "+absolutePath+"/tmp/out/* /out");
+			Runtime.getRuntime().exec("/usr/local/hadoop/bin/hdfs dfs -copyFromLocal "+absolutePath+"/tmp/out/* /malt");
 		}
 		catch (Exception ex){}
     }

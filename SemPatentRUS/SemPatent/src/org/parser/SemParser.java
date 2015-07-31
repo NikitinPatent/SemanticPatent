@@ -65,7 +65,7 @@ public class SemParser {
         Vector<String> listOfFiles = listFilesFromFolder(folder);
         
         for(int i=0; i<listOfFiles.size(); i++){
-        	String resultClaim = fileRead("claim_ru0.txt");
+        	String resultClaim = fileRead(listOfFiles.get(i));
             String inumber =  "0";
             resultClaim = Segment.segmentRus(resultClaim);
             //fileWrite("text_ru"+inumber+".txt",resultClaim);
@@ -87,7 +87,7 @@ public class SemParser {
         }
         
         try{
-			Runtime.getRuntime().exec("/usr/local/hadoop/bin/hdfs dfs -copyFromLocal "+absolutePath+"/tmp/out/* /out");
+			Runtime.getRuntime().exec("/usr/local/hadoop/bin/hdfs dfs -copyFromLocal "+absolutePath+"/tmp/out/* /malt");
 		}
 		catch (Exception ex){}
     }
